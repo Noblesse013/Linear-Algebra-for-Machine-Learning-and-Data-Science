@@ -3,4 +3,5 @@ Welcome to the GitHub repository for the "Mathematics for Machine Learning and D
 
 
 # Contributing
-While this repository is primarily intended for personal use and learning purposes, we welcome contributions from the community. If you find any errors or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+While this repository is primarily intended for personal use and learning purposes, we welcome contributions from the community. If you find any errors or have suggestions for improvements, please feel do free to open an issue or submit a pull request.
+
